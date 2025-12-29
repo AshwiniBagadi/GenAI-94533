@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./Assignment/Rag_Assignment/Chroma_db"
+    ]
+}

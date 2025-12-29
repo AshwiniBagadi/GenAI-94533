@@ -1,3 +1,0 @@
-# 2) Demonstrate the steps to create and switch to a new Git branch, 
-# make changes, commit them, and merge the branch into the main branch.
-
